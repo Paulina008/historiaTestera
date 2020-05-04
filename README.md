@@ -1,1 +1,45 @@
 # historiaTestera
+# Co o mnie?
+Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kierunku *Informatyka*,  ukończyłam również 120 godzinny kurs *Tester Oprogramowania*, internetowy kurs *SQL*. Moim celem jest pogłębianie wiedzy testowej, techniczne oraz wiedzy z zakresu obsługi danych. Na tej stronie chciałabym się podzielić swoim dotychczasowym doświadczenie.  
+
+# Przybory
+* [Jira](https://www.atlassian.com/pl/software/jira) - zamknięte oprogramowanie firmy Atlassian służące do śledzenia błędów oraz zarządzania projektami 
+* [TestLink](http://testlink.org/) -  internetowy system zarządzania testami 
+* [TeamViewer](https://www.teamviewer.com/pl/) - program do zdalnego dostępu do komputera 
+* [SQL Server](https://www.microsoft.com/pl-pl) - narzędzie do konfiguracji,zarządzania i pracy z serwerem bazodanowym
+
+# Umiejętności techniczne
+
+* SQL
+* DevTools
+* SCRUM
+* Testowanie Oprogramowania
+* Kreowanie przypadków testowych
+* Zgłaszanie błędów
+* GitHub
+
+# Kursy
+
+* [Tester Oprogramowania](https://lait.pl/)
+* [SQL](https://www.udemy.com/course/kurs-sql/)
+
+# Grupy na Facebooku
+
+* Testowanie  oprogramowania
+* Geek Girls Carrots Lublin
+* Girls Who Test
+
+# Polecane blogi
+
+* testerzy.pl
+* remigiuszbednarczyk.pl
+* testuj.pl
+
+# Seminaria internetowe
+
+* Szkoła Testowania Backendu
+
+# Przykłady moich przypadków testowych
+
+* [bankowość internetowa](https://docs.google.com/spreadsheets/d/14-nJjRtvNG15s_-oDDjWtdQS-T2Fyz6hGlZBr_R6HWI/edit?usp=sharing)
+
