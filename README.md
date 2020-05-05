@@ -2,7 +2,7 @@
 # Co o mnie?
 Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kierunku *Informatyka*,  ukończyłam również 120 godzinny kurs *Tester Oprogramowania*, internetowy kurs *SQL*. Moim celem jest pogłębianie wiedzy testowej, techniczne oraz wiedzy z zakresu obsługi danych. Na tej stronie chciałabym się podzielić swoim dotychczasowym doświadczenie.  
 
-# Przybory
+# Narzędzia
 * [Jira](https://www.atlassian.com/pl/software/jira) - zamknięte oprogramowanie firmy Atlassian służące do śledzenia błędów oraz zarządzania projektami 
 * [TestLink](http://testlink.org/) -  internetowy system zarządzania testami 
 * [TeamViewer](https://www.teamviewer.com/pl/) - program do zdalnego dostępu do komputera 
@@ -35,7 +35,7 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 * remigiuszbednarczyk.pl
 * testuj.pl
 
-# Seminaria internetowe
+# Webinaria
 
 * Szkoła Testowania Backendu
 
@@ -43,3 +43,6 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 
 * [bankowość internetowa](https://docs.google.com/spreadsheets/d/14-nJjRtvNG15s_-oDDjWtdQS-T2Fyz6hGlZBr_R6HWI/edit?usp=sharing)
 
+# Zgłoszenia błędów 
+
+* [zgłoszenia błędów dla mobilnej aplikacji Moje ING](https://docs.google.com/document/d/1N5PJ57TR54URDoO8ORI1LxagjUxlJrGDmGTl6ZaCWDw/edit?usp=sharing)
