@@ -42,7 +42,7 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 # Przykłady moich przypadków testowych
 
 * [bankowość internetowa](https://docs.google.com/spreadsheets/d/14-nJjRtvNG15s_-oDDjWtdQS-T2Fyz6hGlZBr_R6HWI/edit?usp=sharing)
-
+* [Bershka online shop](https://docs.google.com/spreadsheets/d/1Jbvxx7LcEougN1eJm4tVN1GGtuQuolDs-9TuwTjjWDA/edit?usp=sharing)
 # Zgłoszenia błędów 
 
 * [zgłoszenia błędów dla mobilnej aplikacji Moje ING](https://docs.google.com/document/d/1N5PJ57TR54URDoO8ORI1LxagjUxlJrGDmGTl6ZaCWDw/edit?usp=sharing)
