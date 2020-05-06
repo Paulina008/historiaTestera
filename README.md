@@ -46,3 +46,7 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 # Zgłoszenia błędów 
 
 * [zgłoszenia błędów dla mobilnej aplikacji Moje ING](https://docs.google.com/document/d/1N5PJ57TR54URDoO8ORI1LxagjUxlJrGDmGTl6ZaCWDw/edit?usp=sharing)
+
+# Moje tablice decyzyjne
+
+* [przykładowe tablice](https://docs.google.com/document/d/1h_pE0vGHh1ktRflFkaE_vIjoQ4pEolwoFZe-RI8Q8Ok/edit?usp=sharing)
