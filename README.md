@@ -53,3 +53,6 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 
 # Mapa myśli
 * [moja mapa](https://zapodaj.net/41ee4e4ccf1af.jpg.html)
+
+# Przykładowy raport
+* [raport dla bershka.com](https://docs.google.com/document/d/18oQBnyyU8qdW54985n19fA89Md3PtbCkmJqH6zAh9T8/edit?usp=sharing)
