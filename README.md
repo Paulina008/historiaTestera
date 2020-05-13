@@ -21,7 +21,8 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 # Kursy
 
 * [Tester Oprogramowania](https://lait.pl/)
-* [SQL](https://www.udemy.com/course/kurs-sql/)
+* [SQL](https://www.udemy.com/course/kurs-sql
+*[VBA](https://iexcel.pl/)
 
 # Grupy na Facebooku
 
@@ -38,6 +39,7 @@ Nazywam się Paulina Kołodziej. W 2019 roku rozpoczęłam studia zaoczne na kie
 # Webinaria
 
 * Szkoła Testowania Backendu
+* Tworzenie Makra
 
 # Przykłady moich przypadków testowych
 
